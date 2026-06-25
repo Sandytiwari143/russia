@@ -1,1 +1,1 @@
-# russia
+# Russian Text Sentiment Analyzer 
